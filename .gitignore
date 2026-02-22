@@ -1,0 +1,35 @@
+# Node.js dependencies
+school-backend/node_modules/
+school-frontend/node_modules/
+
+# Logs
+npm-debug.log
+school-backend/npm-debug.log
+school-frontend/npm-debug.log
+
+# Environment variables
+.env
+school-backend/.env
+school-frontend/.env
+
+# Frontend build outputs
+school-frontend/dist/
+school-frontend/.vite/
+school-frontend/build/
+
+# Backend build outputs
+school-backend/dist/
+school-backend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore coverage and test outputs
+school-backend/coverage/
+school-frontend/coverage/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+node_modules/
